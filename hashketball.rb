@@ -93,27 +93,29 @@ def game_hash
           :assists 12,
           :steals 4,
           :blocks 5,
-          :slam_dunks 5
-        }, {
+          :slam_dunks => 5
+        }, 
+        {
           :player_name "Ben Gordon",
-          :number 8,
-          :shoe 15,
-          :points 33,
-          :rebounds 3,
-          :assists 2,
-          :steals 1,
-          :blocks 1,
-          :slam_dunks 0
-        }, {
-          :player_name: "Brendan Haywood",
-          :number 33,
-          :shoe 15,
-          :points 6,
-          :rebounds 12,
-          :assists 12,
-          :steals 22,
-          :blocks 5,
-          :slam_dunks 12
+          :number => 8,
+          :shoe => 15,
+          :points => 33,
+          :rebounds => 3,
+          :assists => 2,
+          :steals => 1,
+          :blocks => 1,
+          :slam_dunks => 0
+        }, 
+        {
+          :player_name => "Brendan Haywood",
+          :number => 33,
+          :shoe => 15,
+          :points => 6,
+          :rebounds => 12,
+          :assists => 12,
+          :steals => 22,
+          :blocks => 5,
+          :slam_dunks => 12
         }
       ]
     }
