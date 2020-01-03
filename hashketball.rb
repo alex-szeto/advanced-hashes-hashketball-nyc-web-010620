@@ -90,6 +90,16 @@ def game_hash
         :assists => 10,
         :steals => 3,
         :blocks => 1,
+        :slam_dunks => 15
+        },
+        {:player_name => "Mason Plumlee",
+        :number => 1,
+        :shoe => 19,
+        :points => 26,
+        :rebounds => 12,
+        :assists => 6,
+        :steals => 3,
+        :blocks => 8,
         :slam_dunks => 1
         },
       ]
